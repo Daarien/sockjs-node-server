@@ -13,6 +13,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "node-static": "^0.7.11",
-    "sockjs": "^0.3.19"
+    "sockjs": "^0.3.20"
   }
 }
